@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+body {
+  background-color: hsl(145, 50%, 35%);
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 300%;
+  text-transform: capitalize;
+}
+
+p {
+  font-size: 150%;
+}
+
+p.niño{
+  color:#fff;
+  font-family: serif;
+  font-style: oblique;
+}
+
+p.animal{
+  color:#FFDCAD;
+  font-family: sans-serif;
+}
+
+p.literatura{
+  color: #FF9D28;
+  font-family: monospace;
+  font-size: 200%;
+}
+
+p.numero{
+  color:#E6194D;
+  font-family: cursive;
+}
